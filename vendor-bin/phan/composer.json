@@ -1,6 +1,6 @@
 {
     "require-dev": {
         "phan/phan": "4.0.3",
-        "drenso/phan-extensions": "3.2.1"
+        "drenso/phan-extensions": "3.5.1"
     }
 }
