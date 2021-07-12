@@ -32,7 +32,7 @@
         "symfony/var-dumper": "^4.4|^5.2",
         "twig/intl-extra": "^2.12|^3.0",
         "phpstan/phpstan-phpunit": "0.12.18",
-        "phpstan/phpstan": "0.12.81",
+        "phpstan/phpstan": "0.12.92",
         "thecodingmachine/phpstan-safe-rule": "1.0.1"
     },
     "config": {
